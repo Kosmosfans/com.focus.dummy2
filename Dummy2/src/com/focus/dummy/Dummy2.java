@@ -10,9 +10,6 @@ public class Dummy2 {
 		// TODO Auto-generated method stub
 		System.out.printf("this is %d", 100);
 		System.out.printf("this is %d", 100);
-		System.out.printf("this is %d", 100);
-		System.out.printf("this is %d", 100);
-		System.out.printf("this is %d", 100);
 	}
 
 }
